@@ -1,4 +1,4 @@
-> 🚨⚠️ WARNING ⚠️🚨: This game is discontinued. Further use is also discontinued.
+> 🚨⚠️ WARNING ⚠️🚨: This game is discontinued. Further playing is also discouraged.
 
 # Sonic made with [PyGame](https://www.pygame.org)
 
@@ -8,8 +8,8 @@ This is a simple example what [PyGame](https://www.pygame.org) can do. To see mo
 
 Please, verify that you have **virtualenv** or **pipenv** installed.
 
-- [Python](https://www.python.org) (3.8)
-- [PyGame](https://www.pygame.org) (1.9.6)
+- [Python](https://www.python.org) (3.8 or later)
+- [PyGame](https://www.pygame.org) (1.9.6 or later)
 - PySimpleGUI
 
 ### Running
@@ -37,4 +37,4 @@ However, if you don't have **Virtualenv** or **pipenv** installed, you can inste
 
 ---
 
-#### Cloned with GitHub Desktop for Windows 10 by [@yoyomonem/Youssef Abdel Monem Elsayed Ahmed Nasr](https://github.com/yoyomonem)
+#### Cloned with GitHub Desktop for Windows 10 by [@yoyomonem](https://github.com/yoyomonem)
